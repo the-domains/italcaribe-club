@@ -1,6 +1,6 @@
 name: Italcaribe Club
 favicon: null
-layout_spectrum: 0.03493874007835984
+layout_spectrum: 1
 typography_spectrum: 0.9622558332048357
 title: Vacanze ai Caraibi LowCost - Viaggi e vacanze Miami
 cta:
@@ -22,8 +22,8 @@ color:
     - '#e5e5e3'
     - '#0179b5'
     - '#01b09f'
-  brandStrength: 0.3727053119800985
-  lightness: 0.9722169325686991
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.11636208882555366
-  rhythmicContrast: 0.026727408170700073
+  rhythmicContrast: 0.5
 purpose: []
