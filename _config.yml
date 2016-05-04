@@ -1,0 +1,28 @@
+name: Italcaribe Club
+favicon: null
+layout_spectrum: 0.03493874007835984
+typography_spectrum: 0.9622558332048357
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3727053119800985
+  lightness: 0.9722169325686991
+  saturation: 0.11636208882555366
+  rhythmicContrast: 0.026727408170700073
+purpose: []
