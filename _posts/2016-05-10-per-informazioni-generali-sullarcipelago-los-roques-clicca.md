@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Per informazioni generali sull'arcipelago Los Roques clicca qua: http://italcaribeclub.com/vacanza-los-roques/"
-datePublished: '2016-05-10T19:59:08.000Z'
-dateModified: '2016-05-10T19:57:58.423Z'
+datePublished: '2016-05-10T20:00:49.431Z'
+dateModified: '2016-05-10T20:00:46.755Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-per-informazioni-generali-sullarcipelago-los-roques-clicca.md
