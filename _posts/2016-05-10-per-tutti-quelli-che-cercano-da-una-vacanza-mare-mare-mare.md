@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Per tutti quelli che cercano da una vacanza mare, mare, mare e ancora mare....sapete quel mare che sa di vento di mare e che profuma di mare ?'
-datePublished: '2016-05-10T20:36:54.657Z'
-dateModified: '2016-05-10T20:32:21.125Z'
+datePublished: '2016-05-10T20:42:29.070Z'
+dateModified: '2016-05-10T20:37:04.207Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-per-tutti-quelli-che-cercano-da-una-vacanza-mare-mare-mare.md
