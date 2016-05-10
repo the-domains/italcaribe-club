@@ -1,6 +1,6 @@
 name: Italcaribe Club
 favicon: null
-layout_spectrum: 0.75229
+layout_spectrum: 1
 typography_spectrum: 0.69461
 title: Benvenuti nel mondo Italcaribe
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#002049'
-    - '#004580'
-    - '#e5e5e3'
-    - '#0179b5'
-    - '#01b09f'
+    - '#014df8'
+    - '#eeff00'
+    - '#190343'
+    - '#ff68f8'
+    - '#55b6fb'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.11636208882555366
