@@ -4,7 +4,7 @@
         <description><![CDATA[Benvenuti nel mondo Italcaribe]]></description>
         <link>https://thegrid.ai/italcaribe-club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 19:59:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 19:59:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/italcaribe-club/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/italcaribe-club/680a8778-f816-47f0-8a3b-2ab7a6d08a8e/index.html</link>
             <guid isPermaLink="false">680a8778-f816-47f0-8a3b-2ab7a6d08a8e</guid>
             <pubDate>Tue, 10 May 2016 19:45:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02e55e18-4a90-4c3e-8984-bd1a391920b7.jpg">]]></description>
+            <link>https://thegrid.ai/italcaribe-club/36915e81-79c9-437c-9e71-68277b1ffaed/index.html</link>
+            <guid isPermaLink="false">36915e81-79c9-437c-9e71-68277b1ffaed</guid>
+            <pubDate>Tue, 10 May 2016 19:59:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Los Roques by Italcaribe]]></title>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/italcaribe-club/miami-11-18-giugno-con-volo-diretto-e-soggiorno-in-cam/index.html</link>
             <guid isPermaLink="false">cdfda23c-92d0-4a98-830f-fc170916632d</guid>
             <pubDate>Tue, 10 May 2016 19:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02e55e18-4a90-4c3e-8984-bd1a391920b7.jpg">]]></description>
-            <link>https://thegrid.ai/italcaribe-club/36915e81-79c9-437c-9e71-68277b1ffaed/index.html</link>
-            <guid isPermaLink="false">36915e81-79c9-437c-9e71-68277b1ffaed</guid>
-            <pubDate>Tue, 10 May 2016 19:19:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
