@@ -4,7 +4,7 @@
         <description><![CDATA[Benvenuti nel mondo Italcaribe]]></description>
         <link>https://thegrid.ai/italcaribe-club/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 20:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 20:32:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/italcaribe-club/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/italcaribe-club/680a8778-f816-47f0-8a3b-2ab7a6d08a8e/index.html</link>
             <guid isPermaLink="false">680a8778-f816-47f0-8a3b-2ab7a6d08a8e</guid>
             <pubDate>Tue, 10 May 2016 20:31:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela con Italcaribe]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c7e78dc-264c-4843-a574-bd5d3157f42d.jpg">]]></description>
+            <link>https://thegrid.ai/italcaribe-club/ee8c7479-b757-4459-a6b1-cda82dd249eb/index.html</link>
+            <guid isPermaLink="false">ee8c7479-b757-4459-a6b1-cda82dd249eb</guid>
+            <pubDate>Tue, 10 May 2016 20:32:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Playa El Agua]]></title>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/italcaribe-club/per-informazioni-generali-sullarcipelago-los-roques-clicca/index.html</link>
             <guid isPermaLink="false">7b8ccd6a-c397-41d9-9b86-33df818e1863</guid>
             <pubDate>Tue, 10 May 2016 20:13:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c7e78dc-264c-4843-a574-bd5d3157f42d.jpg">]]></description>
-            <link>https://thegrid.ai/italcaribe-club/ee8c7479-b757-4459-a6b1-cda82dd249eb/index.html</link>
-            <guid isPermaLink="false">ee8c7479-b757-4459-a6b1-cda82dd249eb</guid>
-            <pubDate>Tue, 10 May 2016 19:59:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
