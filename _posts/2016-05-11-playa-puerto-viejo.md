@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Playa Puerto Viejo, tramonti magici sull'Isla (part 1)"
-datePublished: '2016-05-11T16:12:33.937Z'
-dateModified: '2016-05-11T16:12:33.451Z'
+description: 'Playa Puerto Viejo, tramonti magici sull?Isla (Part II)'
+datePublished: '2016-05-11T16:13:57.988Z'
+dateModified: '2016-05-11T16:13:44.492Z'
 title: ''
 author: []
 authors: []
@@ -21,5 +21,4 @@ url: playa-puerto-viejo/index.html
 _type: Article
 
 ---
-Playa Puerto Viejo, tramonti magici sull'Isla (part 1)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66bc2ab4-b8ec-4aaf-8d66-03d769e7e9de.jpg)
+Playa Puerto Viejo, tramonti magici sull?Isla (Part II)
