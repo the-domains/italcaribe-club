@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Miami.... 11 / 18 giugno con volo DIRETTO e soggiorno in camera doppia compreso colazione in Lincoln Road! offerta'
-datePublished: '2016-05-10T20:13:56.611Z'
-dateModified: '2016-05-10T20:13:56.129Z'
+datePublished: '2016-05-11T16:19:43.817Z'
+dateModified: '2016-05-10T20:35:13.849Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-10-miami-11-18-giugno-con-volo-diretto-e-soggiorno-in-cam.md
 authors: []
 publisher:
