@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Vieni a vivere i Caraibi. La quota include i voli internazionali e nazionali, il trasporto da e per l'aeroporto e 14 notti in hotel 5 stelle con prima colazione inclusa. E naturalmente tutta l'assistenza Italcaribe!"
-datePublished: '2016-05-25T12:43:11.463Z'
-dateModified: '2016-05-25T12:40:30.493Z'
+datePublished: '2016-05-25T12:46:14.595Z'
+dateModified: '2016-05-25T12:43:19.503Z'
 title: Vieni a Vivere i Caraibi. Offerte esclusive a prezzi inimmaginabili.
 author:
   - name: ''
